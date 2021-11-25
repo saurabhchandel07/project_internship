@@ -1,5 +1,5 @@
-This is a Movie Data Application , which is getting data from the API call 
-Printing the data into Tabular form along with some actions for it 
+This is a Movie Data Application , which is getting data from the API call.
+Printing the data into Tabular form along with some actions for it. 
 On the second page of the Application we are displaying the Details of Movie along with summary from where a user can book movie tickets
 On click to book movie a modal will open and it has a allready filled Movie Name inside the filed and rest few details , also user can select on which date and time he wants to book the tickets.
 on submitting the data user will get a alert for confirming the nuber of tickets and timings along with the date.
