@@ -1,0 +1,83 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header h1{
+  text-align: center;
+  border-bottom: 2px solid grey;
+  letter-spacing: 1px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bold;
+  color: white;
+
+}
+thead{
+  background-color:orange;
+}
+th{
+  
+  color:white;
+  font-size: large;
+}
+td{
+  color: white;
+  font-weight: 600;
+  font-family: cursive;
+  
+}
+td:hover {
+  color: yellow;
+}
+
+header{
+  background-color:transparent;
+}
+
+body{
+  background-image: url('https://i.pinimg.com/736x/4b/a9/f6/4ba9f6cc39c245ebd7adbfd982e0e8bf.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+  
+}
+.table-data{
+  color: white;
+}
+.view-data{
+  background-color: transparent;
+  text-decoration: none;
+  border-radius: 10%;
+  padding: 5px;
+}
+
+
+.details-div{
+  margin-left: 20px;
+}
+.details-div h5{
+  color: white;
+}
+
+.book-ticket{
+  background-color: transparent;
+  border: 2px solid white;
+  margin-left: 20px;
+}
+
+.book-ticket:hover{
+  background-color: white;
+  color: black;
+}
+
+.counter-btn{
+  width: 40px;
+  border-radius: 100%;
+}
+label{
+  color:black;
+  font-weight: bolder;
+  
+}
+
